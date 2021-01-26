@@ -34,7 +34,7 @@ defmodule XmlRpc.Mixfile do
     [   {:earmark, "~> 1.0", only: :docs},
         {:ex_doc, "~> 0.14", only: :docs},
         {:erlsom, "~> 1.4"},
-        {:decimal, "~> 1.0"},
+        {:decimal, "~> 2.0"},
     ]
   end
 
